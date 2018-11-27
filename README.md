@@ -6,16 +6,23 @@ Jupyter notebook  to find duplicates and generate internet archive shell command
 
 The software is preliminary and would need lots of cleanup
 
-##Installation/Usage
+## Usage
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Deduplicate-DLI/master)
+
+OR
+
 
 Clone repository and open the ipynb file
 
 
 ##Requirements
+Python==3.6.7
+IPython
+pandas
+numpy
+csv
 
-Jupyter=5.7.1
-Python=3.6.7
-IPython=7.1.1 
 
 
 
