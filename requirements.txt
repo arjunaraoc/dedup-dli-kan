@@ -1,0 +1,4 @@
+Jupyter=5.7.1
+Python=3.6.7
+IPython=7.1.1 
+
