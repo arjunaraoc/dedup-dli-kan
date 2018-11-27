@@ -1,5 +1,4 @@
-ipython
 pandas
 numpy
-csv
+
 
