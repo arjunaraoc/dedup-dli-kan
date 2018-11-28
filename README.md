@@ -13,7 +13,7 @@ https://github.com/arjunaraoc/Deduplicate-DLI
 
 ## Usage
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arjunaraoc/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arjunaraoc/dedup-dli-kan/860ad25)
 
 OR
 
