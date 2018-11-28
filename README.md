@@ -1,4 +1,4 @@
-# Digital library of India Telugu deduplication
+# Digital library of India Kannada deduplication
 
 
 ## Description
@@ -6,9 +6,14 @@ Jupyter notebook  to find duplicates and generate internet archive shell command
 
 The software is preliminary and would need lots of cleanup
 
+Duplicate items are 0.4% only.
+
+For detailed information, checkout Telugu deduplication at
+https://github.com/arjunaraoc/Deduplicate-DLI
+
 ## Usage
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arjunaraoc/Deduplicate-DLI/7a7a37e)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arjunaraoc/)
 
 OR
 
